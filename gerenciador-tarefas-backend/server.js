@@ -1,3 +1,4 @@
+//Acrecentando um comentário aleatório para teste
 // 1. Ativação de segurança para Node antigo v18
 global.crypto = require('crypto'); 
 
